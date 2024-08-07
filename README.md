@@ -1,4 +1,4 @@
-# Cellular_B24_Finale_Project
+# BARBERBOOK
 
 Welcome to BARBERBOOK
 This is an application designed to help barbers manage their appointments with their clients
