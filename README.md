@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/e6016965-0aba-4d5b-bfbe-8921c16938bd)# BARBERBOOK
+# BARBERBOOK
 
 Welcome to BARBERBOOK
 This application is designed to help barbers manage their appointments with their clients.
@@ -28,3 +28,4 @@ You can see a demo in Android Studio and also a demo of the Firebase Realtime Da
 ![image](https://github.com/user-attachments/assets/478762f2-55ea-43b5-a96b-ee5d45992013)
 ![image](https://github.com/user-attachments/assets/c4a25447-b75e-4978-88fe-2d75e3c5cf97)
 ![image](https://github.com/user-attachments/assets/6ff272d2-c674-4f90-bd32-7d6cc5539a41)
+![image](https://github.com/user-attachments/assets/cf463284-92f9-4d96-8d14-f7966a77db4e)
