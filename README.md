@@ -25,9 +25,5 @@ You can see a demo in Android Studio and also a demo of the Firebase Realtime Da
 ## Screenshots
 
 ![image](https://github.com/user-attachments/assets/0a605277-f81d-4464-af2b-572ddf97c666)
-
-![image](https://github.com/user-attachments/assets/c45563b5-d20e-4f00-aa59-c2c37272ee51)
-![image](https://github.com/user-attachments/assets/478762f2-55ea-43b5-a96b-ee5d45992013)
-![image](https://github.com/user-attachments/assets/c4a25447-b75e-4978-88fe-2d75e3c5cf97)
-![image](https://github.com/user-attachments/assets/6ff272d2-c674-4f90-bd32-7d6cc5539a41)
-![image](https://github.com/user-attachments/assets/cf463284-92f9-4d96-8d14-f7966a77db4e)
+![image](https://github.com/user-attachments/assets/ffc29e0c-057a-4094-9989-27e127b2c9b1)
+![image](https://github.com/user-attachments/assets/4f57e7d3-26c9-4e0c-b9aa-1d510f41b175)
