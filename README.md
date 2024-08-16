@@ -18,9 +18,9 @@ Each barber can manage appointments, see all future appointments, and cancel if 
 
 ## App Demo
 
-Link to a demo of the app: 
+In the following link, you can see an app demo in Android Studio and also a demo of the Firebase Realtime Database
+ 
 https://drive.google.com/drive/folders/1kiAsDb9sSQvibRtCdJASlHqNDkIMaAKs?usp=sharing
-You can see a demo in Android Studio and also a demo of the Firebase Realtime Database
 
 ## Screenshots
 
