@@ -16,6 +16,8 @@ Each barber can manage appointments, see all future appointments, and cancel if 
 - Hairstyles catalog.
 - Firebase Realtime Database integration for data storage.
 
+## App Demo
+
 Link to a demo of the app: 
 https://drive.google.com/drive/folders/1kiAsDb9sSQvibRtCdJASlHqNDkIMaAKs?usp=sharing
 You can see a demo in Android Studio and also a demo of the Firebase Realtime Database
